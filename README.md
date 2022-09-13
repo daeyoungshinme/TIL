@@ -11,5 +11,3 @@
 ## TIL
 ---
 - [20220906.md](https://github.com/daeyoungshinme/TIL/2022/09/20220906.md)
-
-테스트 커밋
